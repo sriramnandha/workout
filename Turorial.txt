@@ -2,3 +2,7 @@
 2. Java Programming
 3. SQL Programming
 4. Angular Programming
+
+
+5. oracle Program
+6. F# Program
